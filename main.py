@@ -49,9 +49,9 @@ def success():
         isExist = os.path.exists("Output")
         if not isExist:
            os.makedirs("Output")
-        cv2.imwrite("Output/final.png",res)
+        cv2.imwrite("Output/"+f.filename,res)
         #f.save(f.filename)  
-        return render_template("index.html", name = f.filename)  
+        return render_template("success.html", name = f.filename)  
   
 if __name__ == '__main__':  
     app.run(debug=True)

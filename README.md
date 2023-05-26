@@ -10,6 +10,9 @@ Command to run the project on CPrompt -
 
 >> python main.py
 
+Use the following link in the browser to interact with the system.
+
+http://127.0.0.1:5000/
 ________________________________________________________________
 
 

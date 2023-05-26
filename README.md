@@ -34,10 +34,6 @@ ___________________
 
 
 This project contains APIs so connection of internet is required.
-___________________________________________________________________
-
-"final.png" will be the output file.
-___________________________________________________________________
 
 
 

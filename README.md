@@ -16,12 +16,18 @@ ________________________________________________________________
 About the project - 
 ___________________
 
-Uploading image can be in jpg/png format.
-"Input File" directory stores all the images uploaded for image processing.
-"Output" directory stores the file output file.
-"tuba.png" is the musical instrument image in the musical instrument directory.
-"Temp" directory will store the image files for analyzing the steps of processing.
-"config.ini" contains all the sensitive information of the project.
+- Uploading image can be in jpg/png format.
+
+- "Input File" directory stores all the images uploaded for image processing.
+
+- "Output" directory stores the file output file.
+
+- "tuba.png" is the musical instrument image in the musical instrument directory.
+
+- "Temp" directory will store the image files for analyzing the steps of processing.
+
+- "config.ini" contains all the sensitive information of the project.
+
 
 
 This project contains APIs so connection of internet is required.
